@@ -1,0 +1,27 @@
+.main{
+    display: flex;
+    justify-self: center;
+}
+
+.box{
+    width: 100px;
+    height: 100px;
+    background-color: gray;
+    color: white;
+}
+
+.box-around{
+    width: 200px;
+    height: 200px;
+    background-color: black;
+    color: white;
+    position: relative;
+}
+
+.box-position{
+    position:absolute;
+    left: 50px;
+    top: 50px;
+
+}
+

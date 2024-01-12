@@ -1,0 +1,20 @@
+.mother{
+    display: flex;
+    justify-content: space-between;
+}
+
+.children{
+    background-color: black;
+    color: white;
+    width: 100px;
+    height: 100px;
+    position: relative;
+}
+
+.other-mother{
+    display: flex;
+}
+
+.second{
+    margin-right: 5px;
+}
